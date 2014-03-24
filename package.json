@@ -1,0 +1,18 @@
+{
+  "name": "node-trie",
+  "main": "./index.js",
+  "version": "0.0.1",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "expect.js": "*",
+    "jscover": "*"
+  },
+  "engines": [
+    "node >=0.8.14"
+  ],
+  "scripts": {
+    "test": "make test"
+  }
+}
