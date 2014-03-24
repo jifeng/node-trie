@@ -3,7 +3,7 @@ var Trie = require('../lib/trie');
 
 var trie = Trie();
 
-var trie = new Trie();
+var trie = Trie();
 var lettersArray = [
   'hello',
   'world',
